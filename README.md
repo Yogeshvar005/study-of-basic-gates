@@ -82,7 +82,7 @@ endmodule
 ![truthtable](https://github.com/user-attachments/assets/2518ae5c-ea1f-48a7-b2be-e1980f4a6988)
 
 ## RTL realization Output:
-![basic_2](https://github.com/user-attachments/assets/d1eee94d-6ff2-4062-a192-447e02743101)
+![image](https://github.com/user-attachments/assets/f5402327-0e22-48fb-b429-160a0b0f198b)
 
 ## Timing Waveform :
 ![Screenshot 2024-08-23 144732](https://github.com/user-attachments/assets/21157843-7672-4bbf-b68a-a62153c7720a)
