@@ -1,4 +1,4 @@
-# study-of-basic-gates
+# Study-of-Basic-Gates
 ## AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
